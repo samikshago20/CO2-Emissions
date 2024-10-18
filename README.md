@@ -20,3 +20,9 @@ Final objective is to build an interactive dashboard combining your 3 visualizat
 
 # Goal:
 To transform data into a dynamic dashboard that can use to identify the patterns ,trends and drivers of global CO2 emissions.
+
+# Tableau:
+https://public.tableau.com/views/CO2Emissions_17292608606740/GlobalCo2Emissions?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
